@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - The default black configuration now includes string normalization
+- The default black configuration now exludes all dot dirs
 
 ## [0.0.2] — 2019-12-26
 
