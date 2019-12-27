@@ -68,7 +68,7 @@ publishing your Github releases on Pypi provided that you set the `PYPI_USERNAME
 `PYPI_PASSWORD` secrets in <https://github.com/gh-username/project-name/settings/secrets>.
 
 Since Pypi is very reluctant to let you remove or overwrite existant releases, it will only run when
-a release is firts added, so if you mess up a release, you will have to fix manually on Pypi or
+a release is first added, so if you mess up a release, you will have to fix manually on Pypi or
 (better) make a new postrelease.
 
 ## Explanations
